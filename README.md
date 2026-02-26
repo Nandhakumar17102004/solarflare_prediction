@@ -3,7 +3,7 @@ Performed image preprocessing and label conversion for binary classification (fl
 Trained and evaluated the model using accuracy and confusion matrix; applied ImageDataGenerator for augmentation and ReduceLROnPlateau for adaptive learning.
 Exported the trained model and representative test images for UI integration in a potential deployment phase.**
 
-# ☀️ Solar Flare Classification using CNN + MLP
+#  Solar Flare Classification using CNN + MLP
 
 ---
 
@@ -21,7 +21,7 @@ The approach combines:
 
 ---
 
-## ❓ Problem Statement
+##  Problem Statement
 
 Traditional physics-based simulations for solar flare prediction are computationally expensive.
 
@@ -57,7 +57,7 @@ This project explores:
 
 ---
 
-## 📊 Data Collection & Preprocessing
+##  Data Collection & Preprocessing
 
 ### Solar Images
 - NASA SDO Magnetogram Images  
@@ -75,7 +75,7 @@ This project explores:
 
 ---
 
-## 🧪 Training & Evaluation
+##  Training & Evaluation
 
 ### Dataset Split
 - 80% Training  
@@ -108,7 +108,7 @@ This project explores:
  
 ---
 
-## 🛠 Tools & Libraries
+##  Tools & Libraries
 
 - TensorFlow / Keras  
 - OpenCV  
@@ -120,7 +120,7 @@ This project explores:
 
 ---
 
-## 🧠 Learning Outcomes
+##  Learning Outcomes
 
 - Deep learning architecture design (CNN + MLP)  
 - Image preprocessing for scientific data  
@@ -143,7 +143,7 @@ Such predictive systems contribute to:
 
 ---
 
-## 👨‍💻 Author  
+##  Author  
 
 Nandhakumar  
 CB.EN.U4CSE22530
